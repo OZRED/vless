@@ -1,1 +1,4 @@
+#profile-update-interval: 1
+#profile-title: TGK: @122 
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@46.29.238.196:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&headerType=none&fp=chrome&sni=eh.vk.com&pbk=0H_wOZKbTS0pHEt4UNkvfbcPAUcuU64fbfBPekFJ5X4&sid=a20d3ed244c76426#VLESS - [20.01] tg:@ozred_bot | 🆗
+
