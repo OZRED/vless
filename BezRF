@@ -1,20 +1,8 @@
 #profile-update-interval: 6
-#announce: 🍄 [ Дата обновления: 12.03 🆕 | 🔑 без 🇷🇺: 27 ] 💨
+#announce: 🍄 [ Дата обновления: 12.03 🆕 | 🔑 без 🇷🇺: 15 ] 💨
 #profile-title: ♻️ | tg:@ozred_bot
 #support-url: https://t.me/ozred_bot
 #profile-web-page-url: https://t.me/ozred_bot
-vless://74b6c1ca-1eed-000a-8dc1-3d1ed226f4bb@window-one.sbrf-cdn342.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.vk.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&fp=random&sid=111111#🌐 | Unknown
-vless://97c58b9c-9e6d-4731-a3ca-eb52edb4693b@yandex-1.ultima.foundation:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI#🌐 | Unknown
-vless://97c58b9c-9e6d-4731-a3ca-eb52edb4693b@yandex-1.ultima.foundation:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&fp=edge#🌐 | Unknown
-vless://74b6c1ca-1eed-0014-8dc1-3d1ed226f4bb@window-two.sbrf-cdn342.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.vk.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&fp=qq&sid=111111#🌐 | Unknown
-vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@51.250.40.147:2777?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f&sni=ads.x5.ru#🌐 | Unknown
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@185.40.152.121:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🌐 | Unknown
-vless://902e7236-fce3-4540-b123-bce6f0119283@ru1.fluxorvpn.net:443?type=xhttp&security=reality&sni=sun6-21.userapi.com&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&fp=qq&bx=%2F&path=%2F&mode=auto&sid=d7e1abac#🌐 | Unknown
-vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@51.250.34.38:2772?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rvMyQI5ZuNHmUjz0r9fHubtdKFRFaeGRSqjFqNoGgGU&sid=0f4daaf08700a15f&sni=api-maps.yandex.ru&source_name=etoneya_1&provider_id=etoneya_1#🌐 | Unknown
-vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@51.250.34.38:2777?security=reality&encryption=none&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0f4dacf08722a29f#🌐 | Unknown
-vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@51.250.34.38:2772?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=rvMyQI5ZuNHmUjz0r9fHubtdKFRFaeGRSqjFqNoGgGU&sid=0f4daaf08700a15f&sni=api-maps.yandex.ru#🌐 | Unknown
-vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass4.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=abde0809#🌐 | Unknown
-vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@51.250.34.38:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#🌐 | Unknown
 vless://cdaaa0ba-3f74-42f2-b0c6-f522f347c53c@hole.vz-or.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#🇩🇪 | Германия
 vless://c0167b09-db22-4103-ac8a-ab299ad3e695@89.208.220.127:443?type=tcp&security=reality&pbk=Dk3Nj7IKpnv46zTWRlqVIWcI8wm2esdMvtd34rDGayI&fp=chrome&sni=yt3.fasssst.online&spx=%2F&flow=xtls-rprx-vision&sid=ed13b431#🇳🇱 | Нидерланды
 vless://c0167b09-db22-4103-ac8a-ab299ad3e695@89.208.220.127:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Dk3Nj7IKpnv46zTWRlqVIWcI8wm2esdMvtd34rDGayI&security=reality&sid=ed13b431&sni=yt3.fasssst.online&type=tcp#🇳🇱 | Нидерланды
