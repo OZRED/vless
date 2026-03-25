@@ -2,7 +2,7 @@
 #profile-title: ♻️ | tg:@ozred_bot
 #support-url: https://t.me/ozred_bot
 #profile-web-page-url: https://t.me/ozred_bot
-#announce: 🍄 [ Дата обновления: 25.03 🆕 | 🔑 Ключей: 15 ] 💨
+#announce: 🍄 [ Дата обновления: 25.03 🆕 | 🔑 Ключей: 27 ] 💨
 vless://a91f63a6-6610-4a81-83e1-c7bb6706df91@ya1.f1vpn.icu:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7SRwh0H1HhaizyHY4MllxNKHg14woRiRwTI5uSIKsxE&security=reality&sni=api-maps.yandex.ru&type=tcp#🇩🇪 | Германия
 vless://6f623839-1e6f-36ea-aa5b-5a8d9aa16fcd@s95358.cdn.ngenix.net:443?encryption=none&host=s95358.cdn.ngenix.net&path=%2F&security=tls&sni=s95358.cdn.ngenix.net&type=ws#🇷🇺 | Россия
 vless://ad40df8d-cb92-424a-9388-1e33adc754a4@51.250.41.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ya5j577IqCCOdoiAxC6DYQs-CdZtT3jSZ9klKGK3gs&security=reality&sid=f5312fddebc853&sni=eh.vk.com&type=tcp#🇷🇺 | Россия
@@ -17,4 +17,16 @@ vless://ad40df8d-cb92-424a-9388-1e33adc754a4@51.250.41.219:443?encryption=none&f
 vless://ad40df8d-cb92-424a-9388-1e33adc754a4@51.250.41.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ya5j577IqCCOdoiAxC6DYQs-CdZtT3jSZ9klKGK3gs&security=reality&sid=e8189cae50&sni=api-maps.yandex.ru&type=tcp#🇷🇺 | Россия
 vless://ad40df8d-cb92-424a-9388-1e33adc754a4@51.250.41.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ya5j577IqCCOdoiAxC6DYQs-CdZtT3jSZ9klKGK3gs&security=reality&sid=5d1a9d1e&sni=eh.vk.com&type=tcp#🇷🇺 | Россия
 vless://ad40df8d-cb92-424a-9388-1e33adc754a4@51.250.41.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ya5j577IqCCOdoiAxC6DYQs-CdZtT3jSZ9klKGK3gs&security=reality&sid=5d1a9d1e&sni=ads.x5.ru&type=tcp#🇷🇺 | Россия
+vless://7c17cbee-b53b-43dd-b979-2efcf38e5a0c@51.250.118.243:12443?encryption=none&fp=chrome&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&security=reality&serviceName=grpc-gg&sid=abcdef0123456789&sni=ads.x5.ru&type=grpc#🇷🇺 | Россия
+vless://e1447753-cbba-4d72-a1f7-a06a880ed54d@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=73f3f450814cb4c6&sni=eh.vk.com&type=tcp#🇷🇺 | Россия
+vless://b3124d30-4dd5-4382-9e5b-b9fb3d4b1cd1@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=6df0&sni=eh.vk.com&type=tcp#🇷🇺 | Россия
+vless://02517b3e-0bdb-439e-89d8-8b2e68c7a74d@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=905596aaf46b&sni=api-maps.yandex.ru&type=tcp#🇷🇺 | Россия
 vless://ac100003-279c-11f1-b302-024265cec92d@95.163.214.233:443?alpn=h2%2Chttp%2F1.1&encryption=none&mode=auto&path=%2Fapi%2Fv2%2F&security=tls&sni=bonus05-01.uiu.fyi&type=xhttp#🇺🇸 | США
+vless://77bad2f3-fddc-4cef-9d43-510f12ef1581@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=ea13b2e639ac7b3d&sni=api-maps.yandex.ru&type=tcp#🇫🇮 | Финляндия
+vless://3807a4f6-6e43-4e3e-8e00-fed3219ecc61@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=f6&sni=eh.vk.com&type=tcp#🇫🇮 | Финляндия
+vless://77bad2f3-fddc-4cef-9d43-510f12ef1581@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=905596aaf46b&sni=eh.vk.com&type=tcp#🇫🇮 | Финляндия
+vless://e1447753-cbba-4d72-a1f7-a06a880ed54d@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=ea13b2e639ac7b3d&sni=max.ru&type=tcp#🇫🇮 | Финляндия
+vless://02517b3e-0bdb-439e-89d8-8b2e68c7a74d@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=d3aa73faec502b&sni=eh.vk.com&type=tcp#🇫🇮 | Финляндия
+vless://e1447753-cbba-4d72-a1f7-a06a880ed54d@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=73f3f450814cb4c6&sni=api-maps.yandex.ru&type=tcp#🇫🇮 | Финляндия
+vless://02517b3e-0bdb-439e-89d8-8b2e68c7a74d@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=f02ef629&sni=max.ru&type=tcp#🇫🇮 | Финляндия
+vless://232851c6-ac40-4138-9388-b8ce102ede8a@91.243.86.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nIEdZCSWE8FnO1f260LimY7O_yLtPdoM5MLZ_K9Wv1k&security=reality&sid=f6&sni=api-maps.yandex.ru&type=tcp#🇫🇮 | Финляндия
