@@ -1,9 +1,8 @@
 #profile-update-interval: 6
-#announce: 🍄 [ Дата обновления: 25.03 🆕 | 🔑 без 🇷🇺: 40 ] 💨
+#announce: 🍄 [ Дата обновления: 25.03 🆕 | 🔑 без 🇷🇺: 39 ] 💨
 #profile-title: ♻️ | tg:@ozred_bot
 #support-url: https://t.me/ozred_bot
 #profile-web-page-url: https://t.me/ozred_bot
-vless://8eeb5ece-e85f-4f01-b85f-6e8a094c953c@168.222.194.137:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oOHkZCEco5ThCPBtXnpUXju_d8UHhyyeW2LdFomEoxE&security=reality&sid=e8dc88cc4c6ad69a&sni=export.strelkavpn.com&type=tcp#🇷🇸 | Unknown
 vless://9379b969-400f-4a7d-be82-71b247f0e755@5.42.102.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=97yFkGVrCUC99xcmyR7GviaRhgK_Xa1bwF89NtSVxBA&security=reality&sid=3aa791a2&sni=req.strelkavpn.ru&type=tcp#🇬🇧 | Великобритания
 vless://9379b969-400f-4a7d-be82-71b247f0e755@5.42.102.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=97yFkGVrCUC99xcmyR7GviaRhgK_Xa1bwF89NtSVxBA&security=reality&sid=c8c64e42&sni=req.strelkavpn.ru&type=tcp#🇬🇧 | Великобритания
 vless://b939e1e9-6391-4c86-8ccb-2babccd0d0de@146.185.209.100:8443?encryption=none&fp=chrome&mode=multi&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&security=reality&sid=0123456789abcdef&sni=max.ru&type=grpc#🇬🇧 | Великобритания
