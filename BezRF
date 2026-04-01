@@ -1,5 +1,5 @@
 #profile-update-interval: 6
-#announce: 🍄 [ Дата обновления: 01.04  |  🔑 без 🇷🇺: 12 ] 💨
+#announce: 🍄 [ Дата обновления: 01.04  |  🔑 без 🇷🇺: 13 ] 💨
 #profile-title: ♻️ | tg:@ozred_bot
 #support-url: https://t.me/ozred_bot
 #profile-web-page-url: https://t.me/ozred_bot
@@ -9,6 +9,7 @@ vless://445521b2-25b6-4691-8cf5-3710893f04c9@212.233.122.88:443?mode=auto&path=%
 vless://339d14c6-64aa-49fe-bd5d-d692a9d8dca0@217.16.29.212:9443?security=reality&encryption=none&pbk=-0kUsIqg_ZC9pvlZg8O7Spf6h40aeknptHSsx4jZEg4&fp=chrome&type=grpc&sni=yandex.ru&sid=03#🇩🇪 | Германия
 vless://339d14c6-64aa-49fe-bd5d-d692a9d8dca0@217.16.29.212:7443?security=reality&encryption=none&pbk=-0kUsIqg_ZC9pvlZg8O7Spf6h40aeknptHSsx4jZEg4&fp=chrome&type=grpc&sni=yandex.ru&sid=04#🇳🇱 | Нидерланды
 vless://8e723528-ab32-4343-bb47-ee7411374697@95.163.212.77:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=bonus05-02.uiu.fyi#🇳🇱 | Нидерланды
+vless://76e52510-75f1-4987-98c6-1d00ccfe90d2@212.233.96.202:443?security=reality&encryption=none&pbk=cvkmfiD02YRUwfWxyUv9cDS3gRxxCU7A0M9kMUtRrAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com#🇺🇸 | США
 vless://fe181157-6d70-459f-bcff-69137f9125b8@212.233.91.100:444?security=reality&encryption=none&pbk=ZilRhTkwCKjlm28idpeDYnVGqryjlfoXF4XfeLrTaF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=68c888e3#🇫🇮 | Финляндия
 vless://00809346-b95e-4d4d-8a50-0c82bb75c0ce@212.233.120.4:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=bonus00-01.uiu.fyi#🇸🇪 | Швеция
 vless://2311325e-b42e-4da4-9da7-80ae8d82e2fc@212.233.121.106:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&encryption=none&extra=null&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=bonus66-01.uiu.fyi#🇸🇪 | Швеция
