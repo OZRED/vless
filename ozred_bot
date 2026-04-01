@@ -2,7 +2,7 @@
 #profile-title: ♻️ | tg:@ozred_bot
 #support-url: https://t.me/ozred_bot
 #profile-web-page-url: https://t.me/ozred_bot
-#announce: 🍄 [ Дата обновления: 01.04  |  Ключей: 22 ] 💨
+#announce: 🍄 [ Дата обновления: 01.04  |  Ключей: 27 ] 💨
 vless://339d14c6-64aa-49fe-bd5d-d692a9d8dca0@217.16.29.212:5443?security=reality&encryption=none&pbk=-0kUsIqg_ZC9pvlZg8O7Spf6h40aeknptHSsx4jZEg4&fp=chrome&type=grpc&sni=yandex.ru&sid=02#🇩🇪 | Германия
 vless://339d14c6-64aa-49fe-bd5d-d692a9d8dca0@217.16.29.212:6443?security=reality&encryption=none&pbk=-0kUsIqg_ZC9pvlZg8O7Spf6h40aeknptHSsx4jZEg4&fp=chrome&type=grpc&sni=yandex.ru&sid=01#🇩🇪 | Германия
 vless://445521b2-25b6-4691-8cf5-3710893f04c9@212.233.122.88:443?mode=auto&path=%2F&security=reality&encryption=none&extra=null&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&fp=chrome&type=xhttp&sni=max.fastexte.pro&sid=15affa0af66dfc79#🇩🇪 | Германия
@@ -19,6 +19,11 @@ vless://801ddf0d-5b03-4a1d-a7b0-211458015187@ltei.mambo-jambo.ru:443?security=re
 vless://ddfdbc8a-235b-4bb9-861d-bbbf9f5b2313@37.18.14.170:47060?security=reality&encryption=none&pbk=8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 | Россия
 vless://ddfdbc8a-235b-4bb9-861d-bbbf9f5b2313@37.18.14.236:47060?security=reality&encryption=none&pbk=8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 | Россия
 vless://ddfdbc8a-235b-4bb9-861d-bbbf9f5b2313@37.18.14.231:47050?security=reality&encryption=none&pbk=8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 | Россия
+vless://9b691795-7bbd-45a8-bca1-10684c064e60@95.163.183.171:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺 | Россия
+vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.183.171:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#🇷🇺 | Россия
+vless://09b81314-7592-4ffb-9773-6351de8a7f74@37.139.34.199:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#🇷🇺 | Россия
+vless://d19c562c-61ff-44a3-861c-273add2e14f8@37.139.34.199:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺 | Россия
+vless://76e52510-75f1-4987-98c6-1d00ccfe90d2@212.233.96.202:443?security=reality&encryption=none&pbk=cvkmfiD02YRUwfWxyUv9cDS3gRxxCU7A0M9kMUtRrAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com#🇺🇸 | США
 vless://fe181157-6d70-459f-bcff-69137f9125b8@212.233.91.100:444?security=reality&encryption=none&pbk=ZilRhTkwCKjlm28idpeDYnVGqryjlfoXF4XfeLrTaF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=68c888e3#🇫🇮 | Финляндия
 vless://00809346-b95e-4d4d-8a50-0c82bb75c0ce@212.233.120.4:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=bonus00-01.uiu.fyi#🇸🇪 | Швеция
 vless://2311325e-b42e-4da4-9da7-80ae8d82e2fc@212.233.121.106:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&encryption=none&extra=null&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=bonus66-01.uiu.fyi#🇸🇪 | Швеция
