@@ -1,18 +1,10 @@
 #profile-update-interval: 6
-#announce: 🍄 [ Дата обновления: 13.04  |  🔑 без 🇷🇺: 13 ] 💨
+#announce: 🍄 [ Дата обновления: 14.04  |  🔑 без 🇷🇺: 5 ] 💨
 #profile-title: ♻️ | tg:@ozred_bot
 #support-url: https://t.me/ozred_bot
 #profile-web-page-url: https://t.me/ozred_bot
-vless://d5b7d347-6488-4091-bb61-384bbe57078a@217.16.21.156:443?security=reality&encryption=none&pbk=d-3qQJu3Urv7m-h-W0Hitpv5tks90XTcmEJjbsMNflA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=d5#🇩🇪 | Германия
-vless://d5b7d347-6488-4091-bb61-384bbe57078a@217.16.21.156:443?security=reality&encryption=none&pbk=d-3qQJu3Urv7m-h-W0Hitpv5tks90XTcmEJjbsMNflA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=d5#🇩🇪 | Германия
-vless://b59cf03c-704f-44b0-b329-d3443e860481@217.16.16.156:9878?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru#🇪🇸 | Испания
-vless://b59cf03c-704f-44b0-b329-d3443e860481@217.16.16.156:9878?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru#🇪🇸 | Испания
-vless://b59cf03c-704f-44b0-b329-d3443e860481@217.16.16.156:9879?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru#🇮🇹 | Италия
-vless://b59cf03c-704f-44b0-b329-d3443e860481@217.16.16.156:9879?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru#🇮🇹 | Италия
-vless://b59cf03c-704f-44b0-b329-d3443e860481@217.16.16.156:9880?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru#🇰🇿 | Казахстан
-vless://b59cf03c-704f-44b0-b329-d3443e860481@217.16.16.156:9880?security=reality&encryption=none&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru#🇰🇿 | Казахстан
-vless://85d36a91-c820-446b-8584-f3c1e274315a@158.160.232.29:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇨🇦 | Канада
-vless://279d019e-677e-4284-ade4-3c1dfb0d9f6f@158.160.232.29:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇳🇱 | Нидерланды
-vless://1aa58c61-7829-4d3b-8dc0-07418300bd4f@84.201.162.98:443?security=reality&encryption=none&pbk=dOvm6McMxIp6a9fzLeLRKV0hU-wadCwE3pzNtyPJvWA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=c43649e9#🇫🇷 | Франция
-vless://1aa58c61-7829-4d3b-8dc0-07418300bd4f@51.250.81.183:443?security=reality&encryption=none&pbk=Z6kV2lFb6o5gFg4ioFxqkYfz1O5ii25wZrAvX81SSHc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=910c6fb1#🇫🇷 | Франция
-vless://889a9c8e-3279-4e4a-aa82-9a7b4f3d075e@51.250.117.39:443?security=reality&encryption=none&pbk=EzS6YGgfE-F0jR0-xXB5rVBh-1oNSC17oquln8hK4Wo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=dce3019e#🇫🇷 | Франция
+vless://da415901-7658-49b9-8cbb-fee0e2a03bff@84.201.172.189:20103?security=reality&encryption=none&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=2b145d99dc39e2cc#🇫🇮 | Финляндия
+vless://6421f75b-f74f-439a-984f-07255aebb71a@51.250.66.119:443?mode=gun&security=reality&encryption=none&pbk=O4zqiAPqGIyHePC4HMHL0c4_mru_uqgLH9osDfRTVkE&fp=chrome&spx=%2F&type=grpc&sni=eh.vk.com&sid=649af94174f4#🇫🇮 | Финляндия
+vless://6421f75b-f74f-439a-984f-07255aebb71a@51.250.66.119:443?mode=gun&security=reality&encryption=none&pbk=O4zqiAPqGIyHePC4HMHL0c4_mru_uqgLH9osDfRTVkE&fp=chrome&spx=%2F&type=grpc&sni=megafon.ru&sid=649af94174f4#🇫🇮 | Финляндия
+vless://6421f75b-f74f-439a-984f-07255aebb71a@51.250.66.119:443?mode=gun&security=reality&encryption=none&pbk=O4zqiAPqGIyHePC4HMHL0c4_mru_uqgLH9osDfRTVkE&fp=chrome&spx=%2F&type=grpc&sni=event.yandex.ru&sid=7144e66926#🇫🇮 | Финляндия
+vless://6421f75b-f74f-439a-984f-07255aebb71a@51.250.66.119:443?mode=gun&security=reality&encryption=none&pbk=O4zqiAPqGIyHePC4HMHL0c4_mru_uqgLH9osDfRTVkE&fp=chrome&spx=%2F&type=grpc&sni=api-maps.yandex.ru&sid=7144e66926#🇫🇮 | Финляндия
